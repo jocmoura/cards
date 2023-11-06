@@ -22,10 +22,6 @@ Imagem do projeto
   <img alt="License" src="./assets/imagens/responsivo.png">
 </p>
 
-<p align="center">
-  <img alt="projeto " src="" width="100%">
-</p>
-
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
