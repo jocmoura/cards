@@ -107,3 +107,11 @@ body{
     color:rgb(255, 140, 0) ;
     box-shadow:  0 0 1em rgba(0, 0, 0, 0.637);
 }
+
+
+footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
